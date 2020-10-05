@@ -1,6 +1,6 @@
 # Breast_Cancer_Classification
 
-Breast Cancer Classification is an object detection model built on Keras implementation of FRCNN on mammograms to detect breast cancer in women.
+Breast Cancer Classification is an object detection model built on Keras implementation of FRCNN for mammograms to detect breast cancer in women.
 
 ![alt text](https://github.com/Jagruthi0204/Breast_Cancer_Classification/blob/main/Images/frcnn.PNG)
 
