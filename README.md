@@ -26,7 +26,7 @@ Trained model weights can be downloaded from the following link: https://drive.g
 - train_frcnn.py can be used to train the model. To train the data, it must be in PASCAL VOC format. Data can be converted to PASCAL VOC format using any image labelling tools.
 - The train_path variable need to be changed to the data location path and output_weights_path to the location where weights needs to be saved.
 -  The num_epochs is defaulted to 50 but can be changed as per requirement.
--   If there are any pre-trained weights available, the input_weights_path variable can be iniated with the weights folder path.
+-   If there are any pre-trained weights available, the input_weights_path variable can be initiated with the weights folder path.
 - To run the file:
 
       python train_frcnn.py
