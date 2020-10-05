@@ -21,6 +21,14 @@ The python libraries required for the model are Tensorflow, Numpy, h5py, Keras, 
 
 Trained model weights can be downloaded from the following link: https://drive.google.com/file/d/1xhFNI2b7jhpeL3sYhiZZVbHBF8rRGuEu/view?usp=sharing
 
+### Datasets:
+
+The datasets used for training and testing the model are CBIS-DDSM & MAIS datasets which can be downloaded from the following links:
+
+  https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM
+  
+  http://peipa.essex.ac.uk/info/mias.html
+
 ### Training Process:
 -   Copy pretrained weights for resnet50 (resnet50_weights_tf_dim_ordering_tf_kernels.h5) in the main directory.
 - train_frcnn.py can be used to train the model. To train the data, it must be in PASCAL VOC format. Data can be converted to PASCAL VOC format using any image labelling tools.
