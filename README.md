@@ -4,7 +4,7 @@ Breast Cancer Classification is an object detection model built on Keras impleme
 
 ![alt text](https://github.com/Jagruthi0204/Breast_Cancer_Classification/blob/main/Images/frcnn.PNG)
 
-
+![alt_text](https://github.com/Jagruthi0204/Breast_Cancer_Classification/blob/main/Images/Model%20Architecture.png)
 
 The model is aimed to provide the risk factor associated with the lesion and alert the user quickly for furthur actions. It also draws a bounding box around the lesion to provide the exact location of the Breast Cancer in the mammograms.
 
